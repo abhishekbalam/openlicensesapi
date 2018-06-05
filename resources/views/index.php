@@ -2,7 +2,7 @@
 <html lang="en-US">
   <head>
   
-    <title>Open Licences API</title>
+    <title>Open Licenses API</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -12,8 +12,8 @@
   <body>
     
     <section class="page-header">
-      <h1 class="project-name">Open Licences API</h1>
-      <h2 class="project-tagline">A simple API to download popular Open Source Licences directly via the Terminal.</h2>
+      <h1 class="project-name">Open Licenses API</h1>
+      <h2 class="project-tagline">A simple API to download popular Open Source Licenses directly via the Terminal.</h2>
           <a href="https://github.com/abhishekbalam/openlicensesapi" class="btn">View on GitHub</a>
         
     </section>
@@ -95,37 +95,37 @@
     <tr>
       <td style="text-align: left">1</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/agpl-3.0/">GNU AGPLv3</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">2</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/gpl-3.0/">GNU GPLv3</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">3</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/lgpl-3.0/">GNU LGPLv3</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">4</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/mpl-2.0/">Mozilla Public License 2.0</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">5</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/apache-2.0/">Apache License 2.0</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">6</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/mit/">MIT License</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
     <tr>
       <td style="text-align: left">7</td>
       <td style="text-align: left"><a href="https://choosealicense.com/licenses/unlicense/">The Unlicense</a></td>
-      <td style="text-align: left"><a href="https://openlicencesapi.herokuapp.com/1/html">Read</a></td>
+      <td style="text-align: left"><a href="https://openlicensesapi.herokuapp.com/1/html">Read</a></td>
     </tr>
   </tbody>
 </table>

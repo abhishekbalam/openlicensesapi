@@ -63,13 +63,13 @@ The following Licenses are available with their corresponding **ids** :
 
 | ID | LICENSE                                                                     |         |
 |:---|:----------------------------------------------------------------------------|:--------|
-| 1  | [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)                 | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 2  | [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)                   | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 3  | [GNU LGPLv3](https://choosealicense.com/licenses/lgpl-3.0/)                 | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 4  | [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)  | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 5  | [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)       | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 6  | [MIT License](https://choosealicense.com/licenses/mit/)                     | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
-| 7  | [The Unlicense](https://choosealicense.com/licenses/unlicense/)             | [Read](https://openlicencesapi.herokuapp.com/1/html)  |
+| 1  | [GNU AGPLv3](https://choosealicense.com/licenses/agpl-3.0/)                 | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 2  | [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)                   | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 3  | [GNU LGPLv3](https://choosealicense.com/licenses/lgpl-3.0/)                 | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 4  | [Mozilla Public License 2.0](https://choosealicense.com/licenses/mpl-2.0/)  | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 5  | [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/)       | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 6  | [MIT License](https://choosealicense.com/licenses/mit/)                     | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
+| 7  | [The Unlicense](https://choosealicense.com/licenses/unlicense/)             | [Read](https://openlicensesapi.herokuapp.com/1/html)  |
 
 
 ### - Optional 

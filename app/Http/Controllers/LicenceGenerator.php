@@ -39,7 +39,7 @@ class LicenceGenerator extends Controller
         }
     }
     
-    public function show_licence($id,$browser=0)
+    public function show_licence($id,$type='text')
     {
         $this->list_all(0);
         if($id <= sizeof($this->licenses)){
@@ -48,11 +48,11 @@ class LicenceGenerator extends Controller
             $html = file_get_html($link,$stripRN=false);
             $e = $html->find('pre',0);
             
-            if( $browser == 0){
+            if( $type == 'text'){
                 $var=html_entity_decode ($e->innertext);
             }
-            else{
-                $var=htmlspecialchars_decode($e->outertext);
+            elseif ( $type == 'html'){
+                $var=($e->outertext);
             }
             echo $var;
 

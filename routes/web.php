@@ -18,4 +18,4 @@
 
 $router->get('/', 'LicenceGenerator@list_all');
 
-$router->get('/{id}', 'LicenceGenerator@show_licence');
+$router->get('/{id}[/{type}]', 'LicenceGenerator@show_licence');

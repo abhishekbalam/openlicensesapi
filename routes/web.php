@@ -16,8 +16,7 @@
 // });
 
 
-// $router->get('/');
-
+// $router->get('/', 'LicenceGenerator@show_all');
 
 // Works but adds index.html
 // $router->get('/', function () {
@@ -27,7 +26,5 @@
 $router->get('/', function () {
     return response(view('index'));
 });
-
-
 
 $router->get('/{id}[/{type}]', 'LicenceGenerator@show_licence');

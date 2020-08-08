@@ -28,7 +28,7 @@ The HTML format can be used to add to websites, rendering perfectly in the brows
 This API can be used with either tools:
 - [curl](https://curl.haxx.se/)
 - [wget](https://www.gnu.org/software/wget/)
-- [Postman](https://www.getpostman.com/)
+- [Postman](https://www.postman.com/)
 - Web Browsers etc
 
 # Usage
